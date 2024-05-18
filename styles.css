@@ -98,6 +98,7 @@
     flex-direction: column;
     justify-content: space-between;
     overflow: auto;
+    height: 700px;
   }
   
   .task-form-header {
@@ -109,6 +110,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    height: 700px;
   }
   
   .task-form-footer {
@@ -175,7 +177,7 @@
     .todo-app,
     .task-form {
       width: 400px;
-      height: 450px;
+      height: 700px;
     }
   
     .task-form-label {
